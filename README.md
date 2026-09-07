@@ -8,8 +8,7 @@ through data cleaning, exploratory data analysis, visualization, and dashboard d
 ## 🛠️ Technical Skills
 
 - **Programming:** Python
-- **Data Analysis:** Pandas, NumPy
-- **Visualization:** Matplotlib, Seaborn
+- **Python Libraries:** Pandas, NumPy, Matplotlib, Seaborn
 - **Database:** SQL, MySQL
 - **BI & Visualization:** Power BI, Tableau
 - **Spreadsheet:** Microsoft Excel
