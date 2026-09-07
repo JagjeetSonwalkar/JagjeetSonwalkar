@@ -1,16 +1,40 @@
-## Hi there 👋
+# Hi, I'm Jagjeet Sonwalkar 👋
 
-<!--
-**JagjeetSonwalkar/JagjeetSonwalkar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Data Analyst | Python | SQL | Excel | Power BI | Tableau
 
-Here are some ideas to get you started:
+I'm a Data Analyst focused on transforming raw data into meaningful insights
+through data cleaning, exploratory data analysis, visualization, and dashboard development.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Technical Skills
+
+- **Programming:** Python
+- **Data Analysis:** Pandas, NumPy
+- **Visualization:** Matplotlib, Seaborn
+- **Database:** SQL, MySQL
+- **BI & Visualization:** Power BI, Tableau
+- **Spreadsheet:** Microsoft Excel
+- **Tools:** Git, GitHub, Jupyter Notebook, VS Code
+
+## 📊 Featured Projects
+
+### OLA Ride Booking Analytics
+
+Analyzed 103K+ OLA ride bookings using Excel/CSV and Power BI to identify
+booking trends, revenue performance, cancellations, vehicle-type performance,
+and customer ratings.
+
+### US Airline Flight Delay Analysis
+
+Analyzed approximately 5.8M U.S. flight records using MySQL and Power BI
+to identify airline, airport, route, and flight-delay patterns.
+
+## 🎯 Career Goal
+
+Seeking an entry-level Data Analyst opportunity where I can apply my
+analytical and technical skills to solve real-world business problems
+and support data-driven decision-making.
+
+## 📫 Connect With Me
+
+- **LinkedIn:** [linkedin.com/in/jagjeetsonwalkar](https://linkedin.com/in/jagjeetsonwalkar)
+- **GitHub:** [github.com/JagjeetSonwalkar](https://github.com/JagjeetSonwalkar)
