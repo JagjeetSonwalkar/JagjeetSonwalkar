@@ -36,4 +36,3 @@ and support data-driven decision-making.
 ## 📫 Connect With Me
 
 - **LinkedIn:** [linkedin.com/in/jagjeetsonwalkar](https://linkedin.com/in/jagjeetsonwalkar)
-- **GitHub:** [github.com/JagjeetSonwalkar](https://github.com/JagjeetSonwalkar)
